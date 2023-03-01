@@ -1,11 +1,11 @@
 [
   {
-    "name": "darkbotlifetime",
+    "name": "ciscobotlifetime",
     "productId": "16731345983793BD2TQOxApTc6I",
     "useCloud": true
   },
   {
-    "name": "darkbot",
+    "name": "ciscobot",
     "productId": "16731345983793BD2TQOxApTc6I",
     "useCloud": true
   },
@@ -25,7 +25,7 @@
     "useCloud": true
   },
   {
-    "name": "bossdocs",
+    "name": "ciscodocs",
     "productId": "1673825471279LL3UbKdvrL9zGQ",
     "useCloud": true
   }
